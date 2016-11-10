@@ -8,4 +8,4 @@ end
 
 require 'capistrano/template/helpers/uploader'
 require 'capistrano/template/helpers/paths_lookup'
-require 'capistrano/template/helpers/dsl'
+require 'capistrano/dsl'
